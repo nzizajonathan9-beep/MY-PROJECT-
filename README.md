@@ -25,6 +25,7 @@ I focus on maintaining and improving reliable media and communication infrastruc
 ## 📂 Featured Projects
 - 📡 IoT Smart Equipment & Broadcast Monitoring System for Radio Station using Machine Learning
 - 🌱 Crop Yield Prediction System using Machine Learning
+- 🌍 Air Quality Prediction System using Machine Learning
 
 ## 🧠 Current Focus
 - Improving broadcast reliability systems  
